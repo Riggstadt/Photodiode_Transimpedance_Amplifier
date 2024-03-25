@@ -9,4 +9,4 @@ The documents of interest, collected from several different project repositories
 - <a href="UPDATED_TIA_CIRCUIT_DESIGN.pdf">Updated TIA design, with several improvements</a>
 - <a href="CMOS_INVERTER_BASED_TIA.pdf">CMOS Inverter as simple Transimpedance Amplifier</a>
 
-... And for some of my earlier experiments with simple, intended for DC currents, transimpedance amplifiers, please see <a href="Op-amp Transimpedance Amplifier.pdf">here</a>
+... And for some of my earlier experiments with simple, intended for DC currents, transimpedance amplifiers, please see <a href="Op-amp Transimpedance Amplifier.pdf">here</a>.
